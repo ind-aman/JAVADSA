@@ -18,7 +18,7 @@ public class Recursion_KeypadCombination {
         return;
     }
     public static void main(String[] args) {
-        reteriveCombinaton("", "791");
+        reteriveCombinaton("", "2626");
     }
     
 }
